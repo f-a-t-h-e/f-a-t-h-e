@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fathy</h1>
-<h3 align="center">A passionate back-end developer from Egypt</h3>
+![Hi, I'm Fathy A back-end developer](https://github.com/f-a-t-h-e/f-a-t-h-e/blob/main/Hi%2C%20I'm%20Fathy%20A%20back-end%20developer.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-a-t-h-e&label=Profile%20views&color=0e75b6&style=flat" alt="f-a-t-h-e" /> </p>
 <!-- 
