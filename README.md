@@ -1,4 +1,4 @@
-![Hi, I'm Fathy A full-stack developer](https://github.com/f-a-t-h-e/f-a-t-h-e/blob/main/Hi%2C%20I'm%20Fathy%20A%20full-stack%20developer.gif)
+<!-- ![Hi, I'm Fathy A full-stack developer](https://github.com/f-a-t-h-e/f-a-t-h-e/blob/main/Hi%2C%20I'm%20Fathy%20A%20full-stack%20developer.gif) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-a-t-h-e&label=Profile%20views&color=0e75b6&style=flat" alt="f-a-t-h-e" /> </p>
 <!-- 
